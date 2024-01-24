@@ -1,0 +1,39 @@
+.home{
+    display: flex;
+   
+}
+
+
+.home{
+    background-image: url('https://www.sooriyahospital.com/images1/Banner-New-4.png');
+    /* background-position: right bottom, left top; */
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:670.975px;
+    width:1519.2px; 
+}
+
+.main{
+    padding: 40px 80px;
+display: flex;
+flex-direction: column;
+justify-content: end;
+align-items: center;
+position: absolute;
+left: 63%;
+top: 64%;
+
+}
+
+.main .heading{
+margin-bottom: 10px;
+font-family: 'Playfair Display', serif;
+color: rgb(252, 254, 255);
+font-weight: 900;
+}
+
+.main .head2{
+    font-family: 'Playfair Display', serif;
+    color: rgb(252, 254, 255);
+    font-weight: 500;
+}

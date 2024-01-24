@@ -1,0 +1,44 @@
+.container{
+    height: 700px;
+}
+
+.appoinment{
+    padding: 10px;
+    /* margin-top: 30px; */
+}
+
+.img-sec{
+text-align: center;
+/* margin-bottom: 15px; */
+}
+
+.textbox{
+    height: 500px;
+display: flex;
+justify-content: center;
+    text-align: center;
+    margin-top: 20px;
+    width: 1200px;
+}
+
+
+.formboxes{
+display: flex;
+/* padding: 10px; */
+justify-content: center;
+gap: 3.5rem;
+margin-bottom: 10px;
+}
+
+.formbox{
+    padding: 10px;
+    width: 800px;
+}
+
+
+button{
+    cursor: pointer;
+    justify-content: center;
+    margin-top: 50px;
+
+}

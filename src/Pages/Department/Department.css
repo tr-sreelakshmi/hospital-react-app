@@ -1,0 +1,54 @@
+.contain{
+    height:730px;
+}
+
+.depart-wrapper{
+    display: flex;
+    /* flex-wrap: wrap; */
+    justify-content: center;
+    align-items: center;
+
+}
+
+.heading{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.heading h1{
+    font-weight: 600;
+}
+
+h1{
+    justify-content: center;
+    text-align: center;
+}
+
+
+.box{
+    height:400px;
+    width: 320px;
+    border: 3px solid  rgb(216, 236, 243);
+    background-color: rgb(198, 231, 242);
+    border-radius: 15px;
+cursor: pointer;
+margin: 30px;
+}
+
+
+
+.box img{
+border-radius: 15px;
+align-items: center;
+padding:20px;
+padding-left: 30px;
+border-radius: 15px;
+}
+
+
+.box h3{
+    text-align: center;
+    font-weight: 600;
+    font-family: 'Playfair Display', serif;
+text-shadow: 2px 2px 3px;
+color: rgb(6, 168, 222);
+}

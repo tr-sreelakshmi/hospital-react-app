@@ -1,0 +1,17 @@
+.details h2{
+    font-family: 'Playfair Display', serif;
+    font-weight:600
+}
+
+.details p{
+margin-top: 15px;
+}
+
+.boxwrap{
+    display: flex;
+    margin-top: 35px;
+}
+
+.image{
+    margin-top: 30px;
+}

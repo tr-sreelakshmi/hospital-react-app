@@ -1,0 +1,21 @@
+.page{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 200px;
+}
+
+.heads h1{
+font-size: 90px;
+color: rgb(6, 168, 222);
+}
+ h3{
+    color: rgb(6, 168, 222);
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+p{
+    color: rgb(6, 168, 222);
+    font-family: Arial, Helvetica, sans-serif;
+
+}

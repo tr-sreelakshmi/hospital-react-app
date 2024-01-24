@@ -1,0 +1,38 @@
+.contain-box{
+    height: 1700px;
+    padding: 0px 80px 0px 80px;
+
+}
+
+.details h2{
+    font-family: 'Playfair Display', serif;
+    font-weight:600
+}
+
+.details p{
+margin-top: 15px;
+}
+.details h4{
+    font-family: 'Playfair Display', serif;
+    font-weight: 600;
+}
+
+
+
+.details h5{
+font-weight: 400;
+}
+
+.boxwrap{
+    display: flex;
+    margin-top: 35px;
+}
+
+.image{
+    margin-top: 30px;
+}
+.head4 h4{
+    font-family: 'Playfair Display', serif;
+
+font-weight:700 ;
+}

@@ -1,0 +1,50 @@
+
+
+.nav-icon{
+    display: flex;
+    /* justify-content: space-around; */
+    column-gap: 0.2rem;
+    align-items: center;
+  
+}
+
+.header-container{
+    background-color: rgb(255, 255, 255);
+    background-color: rgb(216, 239, 246);
+    padding: 5px;
+
+}
+
+
+.navigation{
+    display: flex;justify-content: space-between;
+
+}
+h2{
+    font-family: 'Playfair Display', serif;
+    color: rgb(6, 168, 222);
+    font-weight:800;
+   
+    margin-left: 2px;
+
+}
+
+.nav-titles{
+    display: flex;
+    justify-content: end;
+}
+
+.list{
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    margin-top: 13px;
+    font-weight: 800;
+    gap: 1.75rem;
+}
+li{
+    cursor: pointer;
+    color: rgb(6, 168, 222);
+    font-weight: 700;
+    font-family: 'Playfair Display', serif;
+}
